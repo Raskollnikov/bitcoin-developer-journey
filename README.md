@@ -1,7 +1,7 @@
 # My Bitcoin Backend Developer Journey 
 
 [![GitHub followers](https://img.shields.io/github/followers/Raskollnikov?style=social)](https://github.com/Raskollnikov)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/Raskolnyko)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Raskollnikov?style=social)](https://x.com/Raskolnyko)
 
 > **failed interview → took break → came back stronger → building Bitcoin/Blockchain projects only**
 
@@ -22,21 +22,19 @@ I will mention ( link ) projects i have already completed:
 ## what i'm learning and why
 
 ### recently learned:
+- bitcoin address derivation (p2pkh, p2wpkh, p2tr)
+- keys & transactions
+- utxo + scripts
+- nodes & mining
+- blockchain & consensus
+- script types (segwit / taproot)
+- wallet architecture
+- protocol upgrades
 
-    bitcoin address derivation (p2pkh, p2wpkh, p2tr)
-    keys & transactions
-    utxo + scripts
-    nodes & mining
-    blockchain & consensus
-    script types (segwit / taproot)
-    wallet architecture
-    protocol upgrades
-
-
-### next up: 
-  lightning Network protocol
-  multisig wallet architecture
-  bitcoin Script opcodes
+### next up:
+- lightning Network protocol <br>
+- multisig wallet architecture <br>
+- bitcoin script opcodes <br>
 
 ---
 
