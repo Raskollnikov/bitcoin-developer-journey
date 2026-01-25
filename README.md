@@ -37,7 +37,7 @@ I will mention ( link ) projects i have already completed:
 - bitcoin script opcodes <br>
 
 ---
-🟢 BEGINNER PROJECTS (Portfolio Starters)
+🟢 BEGINNER PROJECTS (Portfolio Starters) <br>
 | 1 | [Bitcoin Address Generator](https://github.com/Raskollnikov/bitcoin-address-generator) | ✅ Completed | [Demo](https://bitcoin-address-generator.vercel.app/) 
 
 ---
