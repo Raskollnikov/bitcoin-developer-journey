@@ -39,7 +39,7 @@ I will mention ( link ) projects i have already completed:
 ---
 🟢 BEGINNER PROJECTS (Portfolio Starters) <br>
 | 1 | [Bitcoin Address Generator](https://github.com/Raskollnikov/bitcoin-address-generator) | ✅ Completed | [Demo](https://bitcoin-address-generator.vercel.app/) 
-
+| 2 | [Bitcoin Price Tracker](https://github.com/Raskollnikov/bitcoin-price-tracker) | In Progress 🚀🚀🚀 | SUUUUUUIIIII
 ---
 
 ##  my story
