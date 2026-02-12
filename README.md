@@ -75,10 +75,8 @@ I will mention ( link ) projects i have already completed:
 
 ## GitHub Stats
 
-![GitHub Stats](thttps://github-readme-stats-sigma-five.vercel.app/api?username=Raskollnikov&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raskollnikov&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raskollnikov&theme=dark&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Raskollnikov&theme=darkhub&no-frame=true)
 
 
 
