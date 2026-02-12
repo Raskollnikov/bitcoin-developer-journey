@@ -39,8 +39,8 @@ I will mention ( link ) projects i have already completed:
 ---
 🟢 BEGINNER PROJECTS (Portfolio Starters) <br>
 <br>
-| 1 | [bitcoin address generator](https://github.com/Raskollnikov/bitcoin-address-generator) | ✅ COMPLETE | [demo](https://bitcoin-address-generator.vercel.app/) | HKDF, 4 address types, multi-lang, security-first | <br>
-| 2 | [bitcoin price tracker](https://github.com/Raskollnikov/bitcoin-price-tracker) | ✅ COMPLETE | [demo](https://bitcoin-price-tracker-three.vercel.app/) | APIs, recharts, lazy loading, network stats, real-time data | <br>
+| 1 | [bitcoin address generator](https://github.com/Raskollnikov/bitcoin-address-generator) | ✅ COMPLETE | [demo](https://bitcoin-address-generator.vercel.app/) | <br>
+| 2 | [bitcoin price tracker](https://github.com/Raskollnikov/bitcoin-price-tracker) | ✅ COMPLETE | [demo](https://bitcoin-price-tracker-three.vercel.app/) | <br>
 ---
 
 ##  my story
@@ -75,9 +75,11 @@ I will mention ( link ) projects i have already completed:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Raskollnikov&show_icons=true&theme=dark)
+![GitHub Stats](thttps://github-readme-stats-sigma-five.vercel.app/api?username=Raskollnikov&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raskollnikov&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Raskollnikov&theme=dark&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Raskollnikov&theme=darkhub&no-frame=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raskollnikov&layout=compact&theme=dark)
 
 
 ---
