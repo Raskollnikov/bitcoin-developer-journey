@@ -38,8 +38,9 @@ I will mention ( link ) projects i have already completed:
 
 ---
 🟢 BEGINNER PROJECTS (Portfolio Starters) <br>
-| 1 | [Bitcoin Address Generator](https://github.com/Raskollnikov/bitcoin-address-generator) | ✅ Completed | [Demo](https://bitcoin-address-generator.vercel.app/) <br>
-| 2 | [Bitcoin Price Tracker](https://github.com/Raskollnikov/bitcoin-price-tracker) | ✅ Completed  🚀🚀🚀 | [Demo](https://bitcoin-price-tracker-three.vercel.app/)<br>
+<br>
+| 1 | [bitcoin address generator](https://github.com/Raskollnikov/bitcoin-address-generator) | ✅ COMPLETE | [demo](https://bitcoin-address-generator.vercel.app/) | HKDF, 4 address types, multi-lang, security-first | <br>
+| 2 | [bitcoin price tracker](https://github.com/Raskollnikov/bitcoin-price-tracker) | ✅ COMPLETE | [demo](https://bitcoin-price-tracker-three.vercel.app/) | APIs, recharts, lazy loading, network stats, real-time data | <br>
 ---
 
 ##  my story
