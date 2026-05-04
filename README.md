@@ -44,7 +44,9 @@ I will mention ( link ) projects i have already completed:
 | 3 | [satoshi converter](https://github.com/Raskollnikov/Satoshi_Converter) | ✅ COMPLETE | [demo](https://satoshi-converter.vercel.app/) | <br>
 | 4 | [bitcoin_tx_visualizer](https://github.com/Raskollnikov/bitcoin-tx-visualizer) | ✅ COMPLETE | [demo](https://bitcoin-tx-visualizer-6me5.vercel.app/) | <br>
 | 5 | [offline bitcoin wallet generator](https://github.com/Raskollnikov/Paper_Wallet) | ✅ COMPLETE | <br>
-| 6 | [shapeSeed](https://github.com/Raskollnikov/ShapeSeed)  | ✅ COMPLETE | <br>
+| 6 | [shapeSeed](https://github.com/Raskollnikov/ShapeSeed)  | ✅ COMPLETE  | [demo](https://shapeseed.vercel.app/) | <br>
+| 7 | [dropSeed](https://github.com/Raskollnikov/DropSeed/)  | ✅ COMPLETE | [demo](https://dropseed.vercel.app/) | <br>
+
 ---
 
 ##  my story
